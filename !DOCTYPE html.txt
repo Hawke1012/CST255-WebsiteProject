@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>My CST255 Website</title>
+</head>
+<body>
+<h1>Welcome to my CST255 Website</h1>
+<p>This is the start of my course project.</p>
+</body>
